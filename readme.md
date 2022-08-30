@@ -4,7 +4,7 @@
 
 ## It is mobile responsive.
 
-## [Netlify Link]()
+## [Netlify Link](https://proj-8-res-css.netlify.app/)
 # Skill gained:
     - How to use background linear-gradient.
     - How to set background image using background-position.
